@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a developer who loves to code. I have 2 years hands-on experience in building REST services, SOAP services and Scheduled tasks with Java. I am also working on my personal projects and sometimes contribute to other's repositories in my spare time which allows me to not forget what I know and to learn new things by constant practice.
+I am a developer who loves to code. I have 2 years experience in building REST services, SOAP services and Scheduled tasks with Java. I am also working on my personal projects and sometimes contribute to other's repositories in my spare time which allows me to not forget what I know and to learn new things by constant practice.
 
 
 ## 🌐 Socials:
